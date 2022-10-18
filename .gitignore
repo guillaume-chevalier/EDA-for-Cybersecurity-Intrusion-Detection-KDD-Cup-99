@@ -127,3 +127,25 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+CTU-13-Dataset/
+kddcup99/
+
+data/kddcup99.html
+data/task.html
+data/kddcup.names
+data/kddcup.data.gz
+data/kddcup.data
+data/kddcup.data_10_percent.gz
+data/kddcup.data_10_percent
+data/kddcup.newtestdata_10_percent_unlabeled.gz
+data/kddcup.newtestdata_10_percent_unlabeled
+data/kddcup.testdata.unlabeled.gz
+data/kddcup.testdata.unlabeled
+data/kddcup.testdata.unlabeled_10_percent.gz
+data/kddcup.testdata.unlabeled_10_percent
+data/corrected.gz
+data/corrected
+data/training_attack_types
+data/typo-correction.txt

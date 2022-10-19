@@ -1,0 +1,9 @@
+scikit-learn>=1.1.2
+numpy>=1.16.2
+plotly==5.10.0
+kaleido==0.2.1
+pandas==1.5.0
+neuraxle==0.8.1
+jupyter==1.0.0
+jinja2==3.0.3
+nbconvert==6.4.4
